@@ -32,7 +32,7 @@ Hi sushengbuhuo! You've successfully authenticated, but GitHub does not provide 
 
 5.git clone git@sushengbuhuo.github.com:sushengbuhuo/sushengbuhuo.github.io
 
-#print('n'.join([''.join([('Love'[(x-y) % len('Love')] if ((x0.05)2+(y0.1)2-1)3-(x0.05)2(y0.1)*3 <= 0 else ' ') for x in range(-30, 30)]) for y in range(30, -30, -1)]))
+print('n'.join([''.join([('Love'[(x-y) % len('Love')] if ((x0.05)2+(y0.1)2-1)3-(x0.05)2(y0.1)*3 <= 0 else ' ') for x in range(-30, 30)]) for y in range(30, -30, -1)]))
 ```php
 
                veLoveLov           veLoveLov
